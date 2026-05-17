@@ -1,6 +1,7 @@
 
 import pandas as pd
 
+
 def load_and_process_data(
     filepath="data/dataset.csv",
     output_path="data/processed_dataset.csv"
